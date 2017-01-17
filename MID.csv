@@ -1,0 +1,290 @@
+MID,Country,Alpha-2,Alpha-3
+201,Albania (Republic of),AL,ALB
+202,Andorra (Principality of),AD,AND
+203,Austria,AT,AUT
+204,Azores,,AZC
+205,Belgium,BE,BEL
+206,Belarus (Republic of),BY,BLR
+207,Bulgaria (Republic of),BG,BUL
+208,Vatican City State,VA,VAT
+209,Cyprus (Republic of),CY,CYP
+210,Cyprus (Republic of),CY,CYP
+211,Germany (Federal Republic of),DE,GER
+212,Cyprus (Republic of),CY,CYP
+213,Georgia,GE,GOG
+214,Moldova (Republic of),MD,MOL
+215,Malta,MT,MAL
+216,Armenia (Republic of),AM,ARM
+218,Germany (Federal Republic of),DE,GER
+219,Denmark,DK,DEN
+220,Denmark,DK,DEN
+224,Spain,ES,SPA
+225,Spain,ES,SPA
+226,France,FX,FRA
+227,France,FX,FRA
+228,France,FX,FRA
+229,Malta,MT,MAL
+230,Finland,FI,FIN
+231,Faroe Islands,FO,FAR
+232,United Kingdom of Great Britain and Northern Ireland,GB,UKM
+233,United Kingdom of Great Britain and Northern Ireland,GB,UKM
+234,United Kingdom of Great Britain and Northern Ireland,GB,UKM
+235,United Kingdom of Great Britain and Northern Ireland,GB,UKM
+236,Gibraltar,GI,GIB
+237,Greece,GR,GRE
+238,Croatia (Republic of),HR,CRT
+239,Greece,GR,GRE
+240,Greece,GR,GRE
+241,Greece,GR,GRE
+242,Morocco (Kingdom of),MA,MOR
+243,Hungary (Republic of),HU,HUN
+244,Netherlands (Kingdom of the),NL,NET
+245,Netherlands (Kingdom of the),NL,NET
+246,Netherlands (Kingdom of the),NL,NET
+247,Italy,IT,ITA
+248,Malta,MT,MAL
+249,Malta,MT,MAL
+250,Ireland,IE,IRE
+251,Iceland,IS,ICE
+252,Liechtenstein (Principality of),LI,LIE
+253,Luxembourg,LU,LUX
+254,Monaco (Principality of),MC,MON
+255,Madeira,,MAE
+256,Malta,MT,MAL
+257,Norway,NO,NOR
+258,Norway,NO,NOR
+259,Norway,NO,NOR
+261,Poland (Republic of),PL,POL
+262,Montenegro,ME,MNT
+263,Portugal,PT,POR
+264,Romania,RO,ROM
+265,Sweden,SE,SWE
+266,Sweden,SE,SWE
+267,Slovak Republic,SK,SLV
+268,San Marino (Republic of),SM,SAN
+269,Switzerland (Confederation of),CH,SWT
+270,Czech Republic,CZ,CZH
+271,Turkey,TR,TUR
+272,Ukraine,UA,UKR
+273,Russian Federation,RU,RUS
+274,The Former Yugoslav Republic of Macedonia,MK,MCD
+275,Latvia (Republic of),LV,LAT
+276,Estonia (Republic of),EE,EST
+277,Lithuania (Republic of),LT,LIT
+278,Slovenia (Republic of),SI,SVN
+279,Serbia (Republic of),RS,SER
+301,Anguilla,AI,ANA
+303,Alaska (State of),,ALA
+304,Antigua and Barbuda,AG,ANT
+305,Antigua and Barbuda,AG,ANT
+306,Netherlands Antilles,NL,NEA
+307,Aruba,AW,ARU
+308,Bahamas (Commonwealth of the),BS,BAA
+309,Bahamas (Commonwealth of the),BS,BAA
+310,Bermuda,BM,BER
+311,Bahamas (Commonwealth of the),BS,BAA
+312,Belize,BZ,BEZ
+314,Barbados,BB,BAR
+316,Canada,CA,CAN
+319,Cayman Islands,KY,CAY
+321,Costa Rica,CR,COS
+323,Cuba,CU,CUB
+325,Dominica (Commonwealth of),DM,DOM
+327,Dominican Republic,DO,DOR
+329,Guadeloupe (French Department of),GP,GUA
+330,Grenada,GD,GRA
+331,Greenland,GL,GRN
+332,Guatemala (Republic of),GT,GUT
+334,Honduras (Republic of),HN,HON
+336,Haiti (Republic of),HT,HAI
+338,United States of America,US,USA
+339,Jamaica,JM,JAM
+341,Saint Kitts and Nevis (Federation of),KN,SKN
+343,Saint Lucia,LC,SLU
+345,Mexico,MX,MEX
+347,Martinique (French Department of),MQ,MTQ
+348,Montserrat,MS,MOT
+350,Nicaragua,NI,NIC
+351,Panama (Republic of),PA,PAN
+352,Panama (Republic of),PA,PAN
+353,Panama (Republic of),PA,PAN
+354,Panama (Republic of),PA,PAN
+355,Panama (Republic of),PA,PAN
+356,Panama (Republic of),PA,PAN
+357,Panama (Republic of),PA,PAN
+358,Puerto Rico,PR,PUE
+359,El Salvador (Republic of),SV,ELS
+361,Saint Pierre and Miquelon (Territorial Collectivity of),PM,SPI
+362,Trinidad and Tobago,TT,TAT
+364,Turks and Caicos Islands,TC,TUK
+366,United States of America,US,USA
+367,United States of America,US,USA
+368,United States of America,US,USA
+369,United States of America,US,USA
+370,Panama (Republic of),PA,PAN
+371,Panama (Republic of),PA,PAN
+372,Panama (Republic of),PA,PAN
+373,Panama (Republic of),PA,PAN
+375,Saint Vincent and the Grenadines,VC,SVG
+376,Saint Vincent and the Grenadines,VC,SVG
+377,Saint Vincent and the Grenadines,VC,SVG
+378,British Virgin Islands,VG,BVI
+379,United States Virgin Islands,VI,USV
+401,Afghanistan,AF,AFG
+403,Saudi Arabia (Kingdom of),SA,SAU
+405,Bangladesh (People's Republic of),BD,BAN
+408,Bahrain (Kingdom of),BH,BAH
+410,Bhutan (Kingdom of),BT,BHU
+412,China (People's Republic of),CN,CHN
+413,China (People's Republic of),CN,CHN
+414,China (People's Republic of),CN,CHN
+416,Taiwan (Province of China),TW,TAI
+417,Sri Lanka (Democratic Socialist Republic of),LK,SRI
+419,India (Republic of),IN,IND
+422,Iran (Islamic Republic of),IR,IRN
+423,Azerbaijani Republic,AZ,AZR
+425,Iraq (Republic of),IQ,IRQ
+428,Israel (State of),IL,ISR
+431,Japan,JP,JPN
+432,Japan,JP,JPN
+434,Turkmenistan,TM,TKM
+436,Kazakhstan (Republic of),KZ,KAZ
+437,Uzbekistan (Republic of),UZ,UZB
+438,Jordan (Hashemite Kingdom of),JO,JOR
+440,Korea (Republic of),KR,KOR
+441,Korea (Republic of),KR,KOR
+443,Palestine,PS,PAA
+445,Democratic People's Republic of Korea,KP,KDR
+447,Kuwait (State of),KW,KUW
+450,Lebanon,LB,LEB
+451,Kyrgyz Republic,KG,KYR
+453,Macao (Special Administrative Region of China),MO,MAC
+455,Maldives (Republic of),MV,MAV
+457,Mongolia,MN,MNG
+459,Nepal (Federal Democratic Republic of),NP,NEP
+461,Oman (Sultanate of),OM,OMN
+463,Pakistan (Islamic Republic of),PK,PAK
+466,Qatar (State of),QA,QAT
+468,Syrian Arab Republic,SY,SYR
+470,United Arab Emirates,AE,UAE
+472,Tajikistan,TJ,TJK
+473,Yemen (Republic of),YE,YEM
+475,Yemen (Republic of),YE,YEM
+477,Hong Kong (Special Administrative Region of China),HK,HKG
+478,Bosnia and Herzegovina,BA,BOS
+501,Adelie Land,,ADE
+503,Australia,AU,AUS
+506,Myanmar (Union of),MM,BUR
+508,Brunei Darussalam,BN,BRU
+510,Micronesia (Federated States of),FM,MIC
+511,Palau (Republic of),PW,PAL
+512,New Zealand,NZ,NZL
+514,Cambodia (Kingdom of),KH,CMB
+515,Cambodia (Kingdom of),KH,CMB
+516,Christmas Island (Indian Ocean),CX,CHR
+518,Cook Islands,CK,COO
+520,Fiji (Republic of),FJ,FIJ
+523,Cocos (Keeling) Islands,CC,COC
+525,Indonesia (Republic of),ID,INO
+529,Kiribati (Republic of),KI,KIR
+531,Lao People's Democratic Republic,LA,LAO
+533,Malaysia,MY,MLY
+536,Northern Mariana Islands (Commonwealth of the),MP,MAI
+538,Marshall Islands (Republic of the),MH,MAR
+540,New Caledonia,NC,NCA
+542,Niue,NU,NIU
+544,Nauru (Republic of),NR,NAU
+546,French Polynesia,PF,PLY
+548,Philippines (Republic of the),PH,PHI
+553,Papua New Guinea,PG,PAP
+555,Pitcairn Island,PN,PIT
+557,Solomon Islands,SB,SOL
+559,American Samoa,AS,ASA
+561,Samoa (Independent State of),WS,WSA
+563,Singapore (Republic of),SG,SIN
+564,Singapore (Republic of),SG,SIN
+565,Singapore (Republic of),SG,SIN
+566,Singapore (Republic of),SG,SIN
+567,Thailand,TH,THA
+570,Tonga (Kingdom of),TO,TON
+572,Tuvalu,TV,TUV
+574,Viet Nam (Socialist Republic of),VN,VIE
+576,Vanuatu (Republic of),VU,VAN
+577,Vanuatu (Republic of),VU,VAN
+578,Wallis and Futuna Islands,WF,WAL
+601,South Africa (Republic of),ZA,SAF
+603,Angola (Republic of),AO,ANG
+605,Algeria (People's Democratic Republic of),DZ,ALG
+607,Saint Paul and Amsterdam Islands,,SPL
+608,Ascension Island,AC,ASC
+609,Burundi (Republic of),BI,BUI
+610,Benin (Republic of),BJ,BEN
+611,Botswana (Republic of),BW,BOT
+612,Central African Republic,CF,CAR
+613,Cameroon (Republic of),CM,CAM
+615,Congo (Republic of the),CG,CON
+616,Comoros (Union of the),KM,COM
+617,Cape Verde (Republic of),CV,CAP
+618,Crozet Archipelago,,CRP
+619,C?te d'Ivoire (Republic of),CI,IVO
+620,Comoros (Union of the),KM,COM
+621,Djibouti (Republic of),DJ,DJI
+622,Egypt (Arab Republic of),EG,EGY
+624,Ethiopia (Federal Democratic Republic of),ET,ETH
+625,Eritrea,ER,ERT
+626,Gabonese Republic,GA,GAB
+627,Ghana,GH,GHA
+629,Gambia (Republic of the),GM,GAM
+630,Guinea-Bissau (Republic of),GW,GUB
+631,Equatorial Guinea (Republic of),GQ,EQG
+632,Guinea (Republic of),GN,GUN
+633,Burkina Faso,BF,BUF
+634,Kenya (Republic of),KE,KEN
+635,Kerguelen Islands,,KER
+636,Liberia (Republic of),LR,LIB
+637,Liberia (Republic of),LR,LIB
+638,South Sudan,SS,SSD
+642,Socialist People's Libyan Arab Jamahiriya,LY,LBY
+644,Lesotho (Kingdom of),LS,LES
+645,Mauritius (Republic of),MU,MAU
+647,Madagascar (Republic of),MG,MAD
+649,Mali (Republic of),ML,MLI
+650,Mozambique (Republic of),MZ,MOZ
+654,Mauritania (Islamic Republic of),MR,MAA
+655,Malawi,MW,MAW
+656,Niger (Republic of the),NE,NIG
+657,Nigeria (Federal Republic of),NG,NIA
+659,Namibia (Republic of),NA,NAM
+660,Reunion (French Department of),RE,REU
+661,Rwanda (Republic of),RW,RWA
+662,Sudan (Republic of the),SD,SUD
+663,Senegal (Republic of),SN,SEN
+664,Seychelles (Republic of),SC,SEY
+665,Saint Helena,SH,SHE
+666,Somali Democratic Republic,SO,SOM
+667,Sierra Leone,SL,SIL
+668,Sao Tome and Principe (Democratic Republic of),ST,SAO
+669,Swaziland (Kingdom of),SZ,SWA
+670,Chad (Republic of),TD,CHA
+671,Togolese Republic,TG,TOG
+672,Tunisia,TN,TUN
+674,Tanzania (United Republic of),TZ,TAN
+675,Uganda (Republic of),UG,UGA
+676,Democratic Republic of the Congo,CD,ZAI
+677,Tanzania (United Republic of),TZ,TAN
+678,Zambia (Republic of),ZM,ZAM
+679,Zimbabwe (Republic of),ZW,ZIM
+701,Argentine Republic,AR,ARG
+710,Brazil (Federative Republic of),BR,BRA
+720,Bolivia (Plurinational State of),BO,BOL
+725,Chile,CL,CHI
+730,Colombia (Republic of),CO,COL
+735,Ecuador,EC,ECU
+740,Falkland Islands (Malvinas),FK,FAL
+745,Guiana (French Department of),GF,GUI
+750,Guyana,GY,GUY
+755,Paraguay (Republic of),PY,PAR
+760,Peru,PE,PER
+765,Suriname (Republic of),SR,SUR
+770,Uruguay (Eastern Republic of),UY,URU
+775,Venezuela (Bolivarian Republic of),VE,VEN
